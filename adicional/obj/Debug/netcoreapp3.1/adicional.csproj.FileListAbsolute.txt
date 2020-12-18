@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\efjibiuf a\atrassem-14-a-18\adicional\bin\Debug\netcoreapp3.1\adicional.exe
+C:\Users\dev\Desktop\efjibiuf a\atrassem-14-a-18\adicional\bin\Debug\netcoreapp3.1\adicional.deps.json
+C:\Users\dev\Desktop\efjibiuf a\atrassem-14-a-18\adicional\bin\Debug\netcoreapp3.1\adicional.runtimeconfig.json
+C:\Users\dev\Desktop\efjibiuf a\atrassem-14-a-18\adicional\bin\Debug\netcoreapp3.1\adicional.runtimeconfig.dev.json
+C:\Users\dev\Desktop\efjibiuf a\atrassem-14-a-18\adicional\bin\Debug\netcoreapp3.1\adicional.dll
+C:\Users\dev\Desktop\efjibiuf a\atrassem-14-a-18\adicional\bin\Debug\netcoreapp3.1\adicional.pdb
+C:\Users\dev\Desktop\efjibiuf a\atrassem-14-a-18\adicional\obj\Debug\netcoreapp3.1\adicional.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\efjibiuf a\atrassem-14-a-18\adicional\obj\Debug\netcoreapp3.1\adicional.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\efjibiuf a\atrassem-14-a-18\adicional\obj\Debug\netcoreapp3.1\adicional.AssemblyInfo.cs
+C:\Users\dev\Desktop\efjibiuf a\atrassem-14-a-18\adicional\obj\Debug\netcoreapp3.1\adicional.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\efjibiuf a\atrassem-14-a-18\adicional\obj\Debug\netcoreapp3.1\adicional.dll
+C:\Users\dev\Desktop\efjibiuf a\atrassem-14-a-18\adicional\obj\Debug\netcoreapp3.1\adicional.pdb
+C:\Users\dev\Desktop\efjibiuf a\atrassem-14-a-18\adicional\obj\Debug\netcoreapp3.1\adicional.genruntimeconfig.cache
